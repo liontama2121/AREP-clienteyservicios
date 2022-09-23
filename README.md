@@ -49,7 +49,7 @@ java -version
 ### Despliegue directo en heroku
 > Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.
 > 
-> [![](/img/deploy.PNG)](https://clientesyservicios.herokuapp.com/index.js)
+> [![](/img/deploy.PNG)](https://clienteyservicios.herokuapp.com/)
 > si no funciona entrar a a 
 > https://clienteyservicios.herokuapp.com/
 
