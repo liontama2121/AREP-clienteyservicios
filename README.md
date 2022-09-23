@@ -63,6 +63,6 @@ java -version
 [nombre](git)
 
 ## Licencia & Derechos de Autor
-**©** jjjjjjjjjjjjjj, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
+**©** juan camilo molina leon, Estudiante de Ingeniería de Sistemas de la Escuela Colombiana de Ingeniería Julio Garavito
 
 Licencia bajo la [GNU General Public License]().
