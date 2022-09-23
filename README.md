@@ -50,6 +50,8 @@ java -version
 > Para desplegar el programa directamente desde el servicio de ```Heroku``` damos clic al siguiente link.
 > 
 > [![](/img/deploy.PNG)](https://clientesyservicios.herokuapp.com/index.js)
+> si no funciona entrar a a 
+> https://clienteyservicios.herokuapp.com/
 
 ## Construido con
 
