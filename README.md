@@ -24,7 +24,7 @@ java -version
 > Clonamos este repositario desde ```cmd```, con el siguiente comando
 >
 > ```
-> [https://github.com/liontama2121/AREP-clienteyservicios/edit/master/README.md](https://github.com/liontama2121/AREP-clienteyservicios)
+> git clone https://github.com/liontama2121/AREP-clienteyservicios
 > ```
 >
 > Si nos encontramos en un dispositivo ```linux``` nos dirigimos al archivo ```procfile``` y reemplazamos el contenido por el siguiente texto
